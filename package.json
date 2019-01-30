@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "commander": "^2.8.1",
-    "direct-js": "^0.1.26",
+    "direct-js": "^1.98.2",
     "dotenv": "^4.0.0",
     "read": "^1.0.7",
     "rimraf": "^2.6.2"
